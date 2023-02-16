@@ -1,3 +1,5 @@
+#Collins Wanga
+
 def leibniz ( terms):
     acc = 0
     num = 4
